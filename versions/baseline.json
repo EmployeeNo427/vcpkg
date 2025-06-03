@@ -1690,7 +1690,7 @@
     },
     "cinatra": {
       "baseline": "0.9.5",
-      "port-version": 1
+      "port-version": 2
     },
     "cista": {
       "baseline": "0.15",
@@ -3755,6 +3755,10 @@
     "igloo": {
       "baseline": "1.1.1",
       "port-version": 2
+    },
+    "iguana": {
+      "baseline": "1.0.9",
+      "port-version": 0
     },
     "ignition-modularscripts": {
       "baseline": "2025-02-27",
